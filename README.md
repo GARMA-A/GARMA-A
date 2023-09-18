@@ -1,5 +1,5 @@
 [![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Girgis emad</h1>
+<h1 align="center">Hi 👋, I'm Girgis emad (GARMA)</h1>
 <h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
