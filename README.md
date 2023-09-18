@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Girgis emad</h1>
-<h3 align="center">A professional website and application developer with two years of experience and a student in the College of Computing and Information Technology</h3>
+<h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🌱 I’m currently learning **Node.js , MongoDB , Express**
 
-- 👨‍💻 All of my projects are available at [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
+- 👨‍💻 my personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
 
 - 📫 How to reach me **girgisemad74@gmail.com**
 
