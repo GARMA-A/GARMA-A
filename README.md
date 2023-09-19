@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Girgis emad (GARMA)</h1>
-<h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma</h3>
+<h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **girgisemad74@gmail.com**
 
-- 📄 Know about my experiences [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
+- 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
