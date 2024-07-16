@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.redd.it/useo8hrsi6k91.png]))](https://rishavchanda.io)
+[![MasterHead](https://i.redd.it/useo8hrsi6k91.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Girgis Emad (GARMA)</h1>
 <h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma.</h3>
 
