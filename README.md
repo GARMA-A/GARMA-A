@@ -2,10 +2,16 @@
 <h1 align="center">Hi 👋, I'm Girgis Emad (GARMA)</h1>
 <h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=garma-a&theme=dark" alt="garma-a" />
+  </a> 
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 - 🌱 I’m currently learning Flask, Next.js, Dynamic Programming
 
