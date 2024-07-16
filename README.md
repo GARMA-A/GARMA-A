@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
-<p align="left"> 
+
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 - 🌱 I’m currently learning Flask, Next.js, Dynamic Programming
 
