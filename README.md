@@ -1,6 +1,6 @@
 [![MasterHead](https://i.redd.it/useo8hrsi6k91.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Girgis Emad (GARMA)</h1>
-<h3 align="center">A professional web and application developer with two years of experience & UI/UX Designer using Figma.</h3>
+<h3 align="center">Full stack web developer Computer Science Student ICPC problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
