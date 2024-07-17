@@ -30,15 +30,15 @@
   </a>
 </p>
 
-<p style="border: 12px solid red;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" />
+<p>
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" />
 </p>
 
-<p style="border: 12px solid red;">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=garma-a&show_icons=true&locale=en&theme=dark" alt="garma-a" />
 </p>
 
-<p style="border: 12px solid red;">
+<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garma-a&theme=dark" alt="garma-a" />
 </p>
 
