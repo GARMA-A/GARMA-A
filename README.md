@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0e/2e/0e2e0e64c8e1b79dce4b859446567b48.gif">
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
 
 - 🌱 I’m currently learning flask , Next.js, Dynamic programming**
 
