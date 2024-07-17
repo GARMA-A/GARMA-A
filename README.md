@@ -32,7 +32,7 @@
 
 <p ><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" /></p> 
 
-<p>
+<p style="margin-bottom:"5px">
   <p>&nbsp;<img align="right"  width="45%" src="https://github-readme-stats.vercel.app/api?username=garma-a&show_icons=true&locale=en&theme=dark" alt="garma-a" /></p>
   <p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=garma-a&theme=dark" alt="garma-a" /></p>
 </p> 
