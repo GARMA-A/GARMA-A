@@ -20,7 +20,7 @@
 - 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
 <p >
 
-  <img src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" alt="Image">
+  <img width="200px" src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" alt="Image">
 </p>
 </p>
 
