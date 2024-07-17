@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif](https://user-images.githubusercontent.com/117486085/209233518-d0f390f9-3b79-47ae-bb89-61918d378008.gif))](https://rishavchanda.io)
+[![MasterHead]([https://user-images.githubusercontent.com/48136416/65709212-32904300-e088-11e9-9908-c42dd72177e2.png]))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Girgis Emad (GARMA)</h1>
 <h3 align="center">Full stack web developer, computer science student and a programming competitor at ICPC</h3>
 
