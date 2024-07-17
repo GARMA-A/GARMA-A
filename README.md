@@ -8,13 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GARMA-A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🌱 I’m currently learning Flask, Next.js, Dynamic Programming
 
-- 👨‍💻 My personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
-
-- 📫 How to reach me **girgisemad74@gmail.com**
-
-- 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
