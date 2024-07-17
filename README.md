@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Girgis Emad or GARMA</h1>
 <h3 align="center">Full stack web developer, computer science student and a programming competitor at ICPC</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
