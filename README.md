@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
 
-<h4 align="left">
+<h3 align="left">
 
 - 🌱 I’m currently learning flask , Next.js, Dynamic programming**
-
 - 👨‍💻 my personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
-
 - 📫 How to reach me **girgisemad74@gmail.com**
-  </h4>
+- 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
+- 
+  </h3>
   
 
-- 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
+
 
 
 
