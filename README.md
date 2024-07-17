@@ -1,4 +1,4 @@
-[![MasterHead]([https://repository-images.githubusercontent.com/601737892/fd6544e4-8819-4ba1-a55e-d4785340a2b9]))](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/601737892/fd6544e4-8819-4ba1-a55e-d4785340a2b9)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Girgis Emad (GARMA)</h1>
 <h3 align="center">Full stack web developer, computer science student and a programming competitor at ICPC</h3>
 
