@@ -2,12 +2,18 @@
 <h1 align="center">Hi👋, I'm Girgis Emad or GARMA</h1>
 <h3 align="center">Full stack web developer, computer science student and a programming competitor at ICPC</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
-#🌱 I’m currently learning Flask, Next.js, Dynamic Programming
-#👨‍💻 My personal website https://garma-a.github.io/my-website/
-#📫 How to reach me girgisemad74@gmail.com
-#📄 Know about my Resume https://garma-a.github.io/CV/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+- 🌱 I’m currently learning flask , Next.js, Dynamic programming**
+
+- 👨‍💻 my personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
+
+- 📫 How to reach me **girgisemad74@gmail.com**
+
+- 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GARMA-A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
