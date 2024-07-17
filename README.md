@@ -30,39 +30,18 @@
   </a>
 </p>
 
-<p><div class="glow-border">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" />
-</div></p>
+<p style="position: relative; display: inline-block;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" style="position: relative;">
+  <span style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; border-radius: 10px; box-shadow: 0 0 10px #00ff00; opacity: 0; z-index: -1; transition: opacity 0.3s ease-in-out;"></span>
+</p>
 
-<p><div class="glow-border">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garma-a&show_icons=true&locale=en&theme=dark" alt="garma-a" />
-</div></p>
+<p style="position: relative; display: inline-block;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garma-a&show_icons=true&locale=en&theme=dark" alt="garma-a" style="position: relative;">
+  <span style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; border-radius: 10px; box-shadow: 0 0 10px #00ff00; opacity: 0; z-index: -1; transition: opacity 0.3s ease-in-out;"></span>
+</p>
 
-<p><div class="glow-border">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garma-a&theme=dark" alt="garma-a" />
-</div></p>
+<p style="position: relative; display: inline-block;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garma-a&theme=dark" alt="garma-a" style="position: relative;">
+  <span style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; border-radius: 10px; box-shadow: 0 0 10px #00ff00; opacity: 0; z-index: -1; transition: opacity 0.3s ease-in-out;"></span>
+</p>
 
-<style>
-  .glow-border {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .glow-border::after {
-    content: "";
-    position: absolute;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px #00ff00;
-    opacity: 0;
-    z-index: -1;
-    transition: opacity 0.3s ease-in-out;
-  }
-  
-  .glow-border:hover::after {
-    opacity: 1;
-  }
-</style>
