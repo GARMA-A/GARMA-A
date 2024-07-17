@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=GARMA-A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
 
 <h3 align="left">
 
@@ -25,7 +25,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GARMA-A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
