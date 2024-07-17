@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garma-a" alt="garma-a" /></a> </p>
 
-<h4 align="center">
+<h4 align="left">
 
 - 🌱 I’m currently learning flask , Next.js, Dynamic programming**
 
