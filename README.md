@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<p align="center"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" /></p> 
+<p align="center" width="100%"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garma-a&show_icons=true&locale=en&theme=dark" alt="garma-a" /></p> 
 
