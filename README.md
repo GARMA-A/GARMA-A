@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/girgis emad garma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girgis emad garma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/girgis-emad-garma-96943a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girgis emad garma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/girgis emad wefky elghattas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="girgis emad wefky elghattas" height="30" width="40" /></a>
 <a href="https://instagram.com/girgisyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girgisyt" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/girgis_emad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="girgis_emad_" height="30" width="40" /></a>
