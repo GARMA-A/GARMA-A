@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,py,java,js,ts,html,css,discord,stackoverflow,eclipse,vscode,nodejs,mongodb,flask,linux,nextjs,react,bootstrap,vite,figma,ps,mysql,nextjs,php,postman,redux,tailwind,visualstudio,docker,materialui" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,py,java,js,ts,html,css,discord,stackoverflow,eclipse,vscode,nodejs,mongodb,flask,linux,nextjs,react,bootstrap,vite,figma,ps,mysql,nextjs,php,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim" />
   </a>
 </p>
 
