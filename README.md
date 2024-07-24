@@ -40,8 +40,8 @@
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,py,java,js,ts,html,css,discord,stackoverflow,eclipse,vscode,nodejs,mongodb,flask,linux,nextjs,react,bootstrap,vite,figma,ps,mysql,nextjs,php,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
   </a>
 
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
-<img align="right"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
+<!--<img align="right"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
 
 
 
