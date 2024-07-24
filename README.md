@@ -6,13 +6,13 @@
 
 
 
-
+### About Me, @GARMA-A
 <h3 align="left">
 
 - 🌱 I’m currently learning flask , Next.js, Dynamic programming
 - 👨‍💻 my personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
 - 📫 How to reach me **girgisemad74@gmail.com**
-- 📄 Know about my Resume [https://garma-a.github.io/CV/](https://garma-a.github.io/CV/)
+- 📄 I'm Student at AAST un
 
   </h3>
   
