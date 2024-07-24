@@ -33,11 +33,15 @@
 </p>
 
 
-### Tools And Programming Languages That I Use
+### ToolsThat I Use
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,ts,discord,stackoverflow,eclipse,vscode,flask,linux,nextjs,react,bootstrap,vite,figma,ps,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
+  </a>
 
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,py,java,js,ts,html,css,discord,stackoverflow,eclipse,vscode,nodejs,mongodb,flask,linux,nextjs,react,bootstrap,vite,figma,ps,mysql,nextjs,php,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
+### Programming Languages 
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css"/>
   </a>
 
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
