@@ -17,20 +17,12 @@
   </h3>
   
 
-
-
-
-
-</p>
-</p>
-
-
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
