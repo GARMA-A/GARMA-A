@@ -7,16 +7,15 @@
 
 
 ### About Me, @GARMA-A
-<h3 align="left">
+<div align="left">
 - ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
 - 🌱 I’m currently learning flask , Next.js, Dynamic programming
 - 👨‍💻 my personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
 - 📫 How to reach me **girgisemad74@gmail.com**
 - 📄 I'm Student at AAST un
 
-  </h3>
+</div>
   
-
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
