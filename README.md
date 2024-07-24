@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/601737892/fd6544e4-8819-4ba1-a55e-d4785340a2b9)](https://rishavchanda.io)
 <h1 align="center">Hi👋, I'm Girgis Emad or GARMA</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Full-Stack+Developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS+Python+and+C%2B%2B+Developer;Full-Stack+Developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
