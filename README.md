@@ -33,7 +33,7 @@
 </p>
 
 
-### Tools and softwars That I Use
+### Tools and softwares That I Use
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,ts,discord,stackoverflow,eclipse,vscode,flask,linux,nextjs,react,bootstrap,vite,figma,ps,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
   </a>
