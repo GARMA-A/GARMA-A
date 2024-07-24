@@ -1,20 +1,20 @@
 [![MasterHead](https://repository-images.githubusercontent.com/601737892/fd6544e4-8819-4ba1-a55e-d4785340a2b9)](https://rishavchanda.io)
 <h1 align="center">Hi👋, I'm Girgis Emad or GARMA</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,+Python+and+C%2B%2B+Developer;Full-Stack+Developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Developer;Full-Stack+Developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
 
 
 ### About Me, @GARMA-A
-<div align="left">
-- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
-- 🌱 I’m currently learning flask , Next.js, Dynamic programming
-- 👨‍💻 my personal website [https://garma-a.github.io/my-website/](https://garma-a.github.io/my-website/)
-- 📫 How to reach me **girgisemad74@gmail.com**
-- 📄 I'm Student at AAST un
+<h3 align="left">
+<h4>- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.</h4>
+<h4>- 🌱 I’m currently learning flask , Next.js, Dynamic programming</h4>
+<h4>- 👨‍💻 my personal website https://garma-a.github.io/my-website/</h4>
+<h4>- 📫 How to reach me **girgisemad74@gmail.com**</h4>
+<h4>- 📄 I'm Student of computer Science at AAST university</h4>
 
-</div>
+</h3>
   
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
