@@ -7,14 +7,15 @@
 
 
 ### About Me, @GARMA-A
-<h3 align="left">
-<h4>- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.</h4>
-<h4>- 🌱 I’m currently learning flask , Next.js, Dynamic programming</h4>
-<h4>- 👨‍💻 my personal website https://garma-a.github.io/my-website/</h4>
-<h4>- 📫 How to reach me **girgisemad74@gmail.com**</h4>
-<h4>- 📄 I'm Student of computer Science at AAST university</h4>
 
-</h3>
+- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
+- 🌱 I’m currently learning flask , Next.js, Dynamic programming
+- 📄 I'm Student of computer Science at AAST university
+- 👨‍💻 [my personal website](https://garma-a.github.io/my-website/)
+- 📫 [My email](girgisemad74@gmail.com)
+
+
+
   
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
@@ -32,17 +33,18 @@
 <a href="https://codeforces.com/profile/girgis_emad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="girgis_emad_" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+
+
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,py,java,js,ts,html,css,discord,stackoverflow,eclipse,vscode,nodejs,mongodb,flask,linux,nextjs,react,bootstrap,vite,figma,ps,mysql,nextjs,php,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
   </a>
-</p>
 
-<p ><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=garma-a&show_icons=true&locale=en&layout=compact&theme=dark" alt="garma-a" /></p> 
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
+<img align="right"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>
 
-<p style="margin-bottom:"5px">
-  <p>&nbsp;<img align="right"  width="45%" src="https://github-readme-stats.vercel.app/api?username=garma-a&show_icons=true&locale=en&theme=dark" alt="garma-a" /></p>
-  <p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=garma-a&theme=dark" alt="garma-a" /></p>
-</p> 
+
+
+
 
 
