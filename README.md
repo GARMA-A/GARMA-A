@@ -2,7 +2,7 @@
   <img src="Bottom_up.svg">
 </p>-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS , Python+and+C%2B%2B+Developer;Full-Stack+Web+Developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Developer;Full-Stack+Web+Developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 </p>
 
 
