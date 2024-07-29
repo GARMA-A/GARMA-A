@@ -55,5 +55,5 @@
   <h3>My Favorite Languages</h3>
   <p align="center">
 <!-- Top Languages Card Image -->
-<img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=fff&layout=compact&hide_border=true&title_color=DD2727&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=fff&layout=compact&hide_border=true&title_color=DD2727&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
 </p>
