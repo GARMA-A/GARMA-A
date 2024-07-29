@@ -7,7 +7,10 @@
 
 
 
-<h1 align="right"><h1> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" />
+<!--<h1 align="right"></h1>
+<h1 align="center">
+  <img width="20%" src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=17477b&style=flat" alt="garma-a" />
+</h1>-->
 <h4 align="left"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a></h4>
 
 
