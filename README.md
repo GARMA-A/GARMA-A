@@ -11,11 +11,12 @@
 <h1 align="center">
   <img width="20%" src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=17477b&style=flat" alt="garma-a" />
 </h1>-->
-<h4 align="left"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a></h4>
+<h4 align="center"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a></h4>
 
 
 
-</h1><img  src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience,-Issues" /></p>
+</h1>
+<p align="right" width="45%"><img  src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience,-Issues" /></p>
 
 
 <hr/>
@@ -37,10 +38,10 @@
 
 | ![](https://github-readme-stats.vercel.app/api?username=GARMA-A&show_icons=true&locale=en&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117&border_color=58a6ff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=58a6ff) |
 |-|-|
-<hr/>
-<h3 align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&layout=compact&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff" alt="Most Used Languages" />
-</h3>
+
+<!--<h3 align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&layout=compact&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff" alt="Most Used Languages" />
+</h3>-->
 <hr/>
 <h3 align="center">Programming Language </h3>
 <p align="center">
