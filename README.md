@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Bottom_up.svg">
 </p>
+<h1 align="center">I'm Girgis Emad</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Developer;Full-Stack+Developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
