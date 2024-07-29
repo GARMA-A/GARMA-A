@@ -38,6 +38,10 @@
 | ![](https://github-readme-stats.vercel.app/api?username=GARMA-A&show_icons=true&locale=en&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117&border_color=58a6ff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=58a6ff) |
 |-|-|
 <hr/>
+<h3 align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&layout=compact&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff" alt="Most Used Languages" />
+</h3>
+<hr/>
 <h3 align="center">Programming Language </h3>
 <p align="center">
  <a href="https://skillicons.dev">
