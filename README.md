@@ -32,23 +32,27 @@
 <a href="https://codeforces.com/profile/girgis_emad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="girgis_emad_" height="30" width="40" /></a>
 </p>
 
-
-### Tools and softwares That I Use
+<hr/>
+<h3>Tools and softwares That I Use </h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,ts,discord,stackoverflow,eclipse,vscode,flask,linux,nextjs,react,bootstrap,vite,figma,ps,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
   </a>
 
-
-### Programming Languages 
+<hr/>
+<h3>Programming Language </h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css"/>
   </a>
-
+<hr/>
  
-
+### **Current Streak**
+<p align="center">
 <!-- Streak Stats Image -->
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
-
+<img  width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
+<hr/>
+  </p>
+  <h3>My Favorite Languages</h3>
+  <p align="center">
 <!-- Top Languages Card Image -->
-<img align="left" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=fff&layout=compact&hide_border=true&title_color=DD2727&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
-
+<img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=fff&layout=compact&hide_border=true&title_color=DD2727&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
+</p>
