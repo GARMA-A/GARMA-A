@@ -5,14 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GARMA-A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<hr/>
+<h3>About Me, @GARMA-A</h3>
 
-### About Me, @GARMA-A
-
-- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
-- 🌱 I’m currently learning flask , Next.js, Dynamic programming
-- 📄 I'm Student of computer Science at AAST university
-- 👨‍💻 [my personal website](https://garma-a.github.io/my-website/)
-- 📫 [My email](girgisemad74@gmail.com)
+<h4>- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.</h4>
+<h4>- 🌱 I’m currently learning flask , Next.js, Dynamic programming</h4>
+<h4>- 📄 I'm Student of computer Science at AAST university</h4>
+<h4>-<a href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website</a></h4>
+<h4>- <a href="girgisemad74@gmail.com">📫 My email</a></h4>
+<hr/>
 
 
 
