@@ -1,7 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="Bottom_up.svg">
-</p>
-<h1 align="center">I'm Girgis Emad</h1>
+</p>-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Developer;Full-Stack+Developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
@@ -13,21 +12,22 @@
 
 <hr/>
 
-<h3>Active On</h3>
+<!--<h3>Active On</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/girgis-emad-garma-96943a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girgis emad garma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/girgis emad wefky elghattas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="girgis emad wefky elghattas" height="30" width="40" /></a>
 <a href="https://instagram.com/girgisyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girgisyt" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/girgis_emad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="girgis_emad_" height="30" width="40" /></a>
-</p>
+</p>-->
 
-<hr/>
+<!--
 <h3>Tools and softwares That I Use </h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,ts,discord,stackoverflow,eclipse,vscode,flask,linux,nextjs,react,bootstrap,vite,figma,ps,postman,redux,tailwind,visualstudio,docker,materialui,netlify,npm,replit,gmail,linkedin,svg,vim,windicss,instagram,codepen" />
   </a>
+  -->
 
-<hr/>
+
 <h3>Programming Language </h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css"/>
