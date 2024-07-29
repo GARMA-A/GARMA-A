@@ -27,15 +27,16 @@
   </a>
   -->
 
-
+| ![](https://github-readme-stats.vercel.app/api?username=GARMA-A&show_icons=true&locale=en&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117&border_color=58a6ff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=58a6ff) |
+|-|-|
+<hr/>
 <h3>Programming Language </h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css"/>
   </a>
-<hr/>
+
  
-| ![](https://github-readme-stats.vercel.app/api?username=GARMA-A&show_icons=true&locale=en&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117&border_color=58a6ff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=58a6ff) |
-|-|-|
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=65&section=footer"/>
 </p>
