@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=0e75b6&style=flat" alt="garma-a" /> </p>
 
-<img align ="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Stars,-Followers,-Reviews,-Experience,-Issues" />
+<img align ="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience,-Issues" />
 
 <h4>-<a href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website</a></h4>
 <h4>- <a href="girgisemad74@gmail.com">📫 My email</a></h4>
