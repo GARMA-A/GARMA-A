@@ -50,5 +50,5 @@
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GARMA-A&theme=dark&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
 
 <!-- Top Languages Card Image -->
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=fff&layout=compact&hide_border=true&title_color=DD2727&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
+<img align="left" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&text_color=fff&layout=compact&hide_border=true&title_color=DD2727&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
 
