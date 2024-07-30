@@ -12,7 +12,7 @@
 <p align="right" width="45%"> <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience" /></p></h4>-->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Girgis+Emad!;JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!;Girgis+Emad!" alt="Typing SVG" /></a>
 </p>
 
 | ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GARMA-A&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff&card_width=300&hide_progress=true&langs_count=10) |
