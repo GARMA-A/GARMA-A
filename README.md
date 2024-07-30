@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GARMA-A&margin-w=15&column=4&theme=algolia&title=-Followers,-Reviews,-Experience,-Issues"" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GARMA-A&margin-w=15&column=5&theme=algolia&title=-Followers,-Reviews,-Experience"" alt="Trophy" />
 </p>
 <p align="center">
  <h3 align="center"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a></h3> 
