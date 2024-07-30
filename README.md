@@ -21,8 +21,9 @@
 
 <hr/>
 
-| ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GARMA-A&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&layout=donut&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff) |
+| ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GARMA-A&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff&card_width=300&hide_progress=true&langs_count=10) |
 |-|-|
+
 
 
 
