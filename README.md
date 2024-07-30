@@ -11,12 +11,9 @@
 <h1 align="center">
   <img width="20%" src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=17477b&style=flat" alt="garma-a" />
 </h1>-->
-<h4 align="left"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a></h4>
+<h4 align="left"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a>
+<p align="right" width="45%"> <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience,-Issues" /></p></h4>
 
-
-
-</h1>
-<p align="right" width="45%"> <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience,-Issues" /></p>
 
 
 <hr/>
