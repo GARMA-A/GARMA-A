@@ -21,6 +21,21 @@
 
 <hr/>
 
+<!--```yaml
+name: Ali Cem Özkara
+located_in: [Ankara-Turkey]
+from: [Turkey]
+Currently Working on: GrapQL Request's
+job: Solutions-driven Professional
+education: ["Bachelor's in Electric & Electronics Engineering"]
+website: https://alicemist.github.io/folio/
+technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies", "NLP Techniques"]
+currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend", 
+Personal Bots with selenium in complex tasks", "Custom API building"]
+ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
+hobbies: ["Basketball", "Competitive Gaming"]
+```-->
+
 <!--<h3>Active On</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/girgis-emad-garma-96943a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girgis emad garma" height="30" width="40" /></a>
