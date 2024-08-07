@@ -11,12 +11,12 @@
 <h4 align="left"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a>
 <p align="right" width="45%"> <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience" /></p></h4>-->
 
-<p align="center">
+<!--<p align="center">
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!;Girgis+Emad!" alt="Typing SVG" />
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
