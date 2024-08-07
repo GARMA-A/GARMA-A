@@ -19,20 +19,27 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GARMA-A&margin-w=15&column=5&theme=algolia&title=-Followers,-Reviews,-Experience"" alt="Trophy" />
 </p>
-<p align="center">
+<!--<p align="center">
  <h3 align="center"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%" href="https://mail.google.com/mail/?view=cm&fs=1&to=girgisemad74@gmail.com&su=Your%20Subject%20Here&body=Your%20message%20goes%20here"> 📫 My email</a></h3> 
-</p>
+</p>-->
 
 
-![](https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
-<!--
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=58a6ff)| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff&card_width=350&hide_progress=false&langs_count=10&layout=donut) |
-|-|-|-->
+
+
+| ![](https://github-readme-stats.vercel.app/api?username=GARMA-A&show_icons=true&border=58a6ff&locale=en&theme=github_dark)| ![](https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=58a6ff)|
+|-|-|
+
+
 
 
 
@@ -79,11 +86,11 @@ hobbies: ["Basketball", "Competitive Gaming"]
   </a>
   </p>-->
 
- 
+ <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Hard-Work)
 <img src="https://leetcard.jacoblin.cool/Hard-Work"/>
 <p align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=65&section=footer"/>
-</p>
+</p>-->
 
 
