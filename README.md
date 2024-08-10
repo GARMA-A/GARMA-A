@@ -14,7 +14,7 @@
 <p align="center">
   
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master+🔥;A+Man's+Dream+Will+Never+Die!+❤️;Girgis+Emad!+😎&color=ff2929" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JavaScript,Python+and+C%2B%2B+Master+🔥;A+Man's+Dream+Will+Never+Die!+❤️;Girgis+Emad!+😎&color=ff2929" alt="Typing SVG" />
 </a>
 </p>
 
