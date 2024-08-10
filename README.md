@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=ffffff"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GARMA-A&theme=github_dark&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=9f9f9f&background=0d1117&border=6c6c6c"/>
 </p>
 
 
